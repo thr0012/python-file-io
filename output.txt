@@ -1,0 +1,9 @@
+Line:1	congrats
+Line:1	friend
+Line:1	on
+Line:2	parsing
+Line:2	really
+Line:2	successfully
+Line:3	super
+Line:3	winner
+Line:3	you
